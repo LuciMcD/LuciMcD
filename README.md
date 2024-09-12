@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuciMcD
 - 👀 I’m interested in ...art of many mediums, numbers, dogs and learning new things
-- 🌱 I’m currently learning ...other than computer programming, I am learning to play the violin
-- 💞️ I’m looking to collaborate on ...not sure yet
+- 🌱 I’m currently learning...to improve my computer progamming skills and knowledge on data analytics
+- 💞️ I’m looking to collaborate on ... I'm now looking for a job in the data field!
 - 📫 How to reach me ...lucimcdaniel@gmail.com
 
 <!---
